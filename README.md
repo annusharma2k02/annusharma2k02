@@ -1,4 +1,5 @@
-[![MasterHead]([[(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]]](https://github.com/annusharma2k02)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/annusharma2k02)
+
 
 <h1 align="center">Hi there 👋, I'm Annu Sharma</h1>
 <h3 align="center">Aspiring Java Developer | Focused on building robust and scalable applications</h3>
