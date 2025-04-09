@@ -58,5 +58,5 @@
 
 <p>
   <a href="mailto:annukri5110nwd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add your LinkedIn or portfolio link here -->
+  <!-- [Add your LinkedIn or portfolio link here](https://www.linkedin.com/in/annusharma090/) -->
 </p>
