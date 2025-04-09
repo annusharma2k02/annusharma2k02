@@ -1,7 +1,8 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif))](https://github.com/annusharma2k02)
 
 <h1 align="center">Hi there 👋, I'm Annu Sharma</h1>
-<h3 align="center">Aspiring Frontend Developer | Focused on building impactful digital experiences</h3>
+<h3 align="center">Aspiring Java Developer | Focused on building robust and scalable applications</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
