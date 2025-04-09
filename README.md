@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif))](https://github.com/annusharma2k02)
+[![MasterHead]([[(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)))](https://github.com/annusharma2k02)
 
 <h1 align="center">Hi there 👋, I'm Annu Sharma</h1>
 <h3 align="center">Aspiring Java Developer | Focused on building robust and scalable applications</h3>
